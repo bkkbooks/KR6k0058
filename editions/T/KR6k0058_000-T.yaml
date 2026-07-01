@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0058/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說迦葉禁戒經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1469.xml
+    old_id: T24n1469
+hash: sha256:ef9eaefcaca298e1c043389f0ae4778782a114f13b3aae6b3f949c62831729f9
