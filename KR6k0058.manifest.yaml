@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0058_000.yaml, hash: 'sha256:ef9eaefcaca298e1c043389f0ae4778782a114f13b3aae6b3f949c62831729f9'}
-  - {seq: 1, filename: KR6k0058_001.yaml, hash: 'sha256:21d05ea926b722f1b7708e3beca019432ab3b27ccb1ecfdeb2dbde4e09a05afe'}
+  - {seq: 1, filename: KR6k0058_001.yaml, hash: 'sha256:43d635ddbba939c1db05ce8451856bdcfa80d10821aeac0020d606d43992598b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0058_001.markers.yaml, hash: 'sha256:e7f322fb80b46becbd1f66120b5d5aa8dff9b2767718a5aad050ff548e3b2d72'}
+  - {seq: 0, role: markers, filename: assets/KR6k0058_000.markers.yaml, hash: 'sha256:f477e7447579e6c73058a4a67c403ea0d48244aed4d36568a786571479176b73'}
+  - {seq: 1, role: markers, filename: assets/KR6k0058_001.markers.yaml, hash: 'sha256:8afe919ca08bf8c9b2cdc3e26db1887e43f5e3eaa8f92dd0e149cf2a1450feab'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說迦葉禁戒經
   type: juan
   level: 1
-hash: sha256:22afc785174dd4cf72a7fbddd2dc13c5822f9e7fd276c30fa97e5a20f8add923
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4436e6a150241eeab37d66ce0ac3cc0052d8915f9c1142952c80431f83f1ab9f
